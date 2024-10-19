@@ -1,2 +1,2 @@
 # Trabalho-Elton
-vamo usar droga disgraçaaaa
+Bora buscar galeraaaaaa
