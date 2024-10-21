@@ -1,0 +1,1049 @@
+.cara-barbudo-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.hw-barber {
+    position: absolute;
+    height: 7.87%;
+    width: 41.45%;
+    top: 8.02%;
+    left: 42.97%;
+    display: inline-block;
+}
+.texto-inicial-child {
+    position: absolute;
+    height: 48.56%;
+    width: 75.76%;
+    top: 51.47%;
+    right: 12.12%;
+    bottom: -0.03%;
+    left: 12.12%;
+    border-radius: 5px;
+    background-color: rgba(227, 182, 58, 0.19);
+    border: 1px solid #e3b63a;
+    box-sizing: border-box;
+}
+.texto-inicial-item {
+    position: absolute;
+    height: 3.89%;
+    width: 8.04%;
+    top: 73.8%;
+    right: 76.81%;
+    bottom: 22.31%;
+    left: 15.15%;
+    background-color: #fff;
+}
+.cortes-profissionais {
+    position: absolute;
+    height: 34.93%;
+    width: 48.03%;
+    top: 58.26%;
+    left: 27.27%;
+    display: inline-block;
+}
+.texto-inicial-inner {
+    position: absolute;
+    height: 51.5%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 48.5%;
+    left: 0%;
+    border-radius: 5px;
+    background-color: rgba(227, 182, 58, 0.19);
+    border: 2px solid #e3b63a;
+    box-sizing: border-box;
+}
+.rectangle-div {
+    position: absolute;
+    height: 3.89%;
+    width: 8.04%;
+    top: 24.76%;
+    right: 88.93%;
+    bottom: 71.35%;
+    left: 3.03%;
+    background-color: #fff;
+}
+.melhores-barbeiros-do {
+    position: absolute;
+    height: 34.93%;
+    width: 68.49%;
+    top: 8.25%;
+    left: 14.7%;
+    display: inline-block;
+}
+.texto-inicial {
+    position: absolute;
+    height: 21.94%;
+    width: 47.43%;
+    top: 20.1%;
+    right: 26.64%;
+    bottom: 57.96%;
+    left: 25.93%;
+    font-size: 60px;
+    color: #fff;
+}
+.cara-barbudo-parent {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.group-wrapper {
+    position: absolute;
+    height: 86.99%;
+    width: 100%;
+    top: 13.01%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.group-child {
+    position: absolute;
+    height: 5.56%;
+    width: 5.17%;
+    top: 67.28%;
+    right: 47.79%;
+    bottom: 27.16%;
+    left: 47.04%;
+    border-radius: 3px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    cursor: pointer;
+}
+.barra-topo-child {
+    position: absolute;
+    top: 159px;
+    left: 0px;
+    background-color: #373737;
+    width: 1906px;
+    height: 890px;
+}
+.barra-topo {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: 0px 9px 7px rgba(22, 22, 22, 0.79);
+    background-color: #e3b63a;
+    overflow: hidden;
+}
+.frame {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 20px;
+    background-color: #fff;
+    overflow: hidden;
+    cursor: pointer;
+}
+.frame-wrapper {
+    position: absolute;
+    height: 40.93%;
+    width: 2.89%;
+    top: 32.91%;
+    right: 1.47%;
+    bottom: 26.17%;
+    left: 95.64%;
+}
+.perfil-icon {
+    position: absolute;
+    height: 30.42%;
+    width: 1.68%;
+    top: 38.08%;
+    right: 0%;
+    bottom: 31.5%;
+    left: 98.32%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.carrinho-icon {
+    position: absolute;
+    height: 31.03%;
+    width: 1.61%;
+    top: 38.27%;
+    right: 3.53%;
+    bottom: 30.7%;
+    left: 94.86%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    cursor: pointer;
+}
+.poit-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 15px;
+    background-color: #fff;
+}
+.cutpoint {
+    position: absolute;
+    height: 67.23%;
+    width: 90.52%;
+    top: 16.99%;
+    left: 4.28%;
+    white-space: pre-wrap;
+    display: inline-block;
+}
+.poit {
+    position: absolute;
+    height: 43.97%;
+    width: 6.18%;
+    top: 28.27%;
+    right: 6.38%;
+    bottom: 27.76%;
+    left: 87.44%;
+}
+.incio {
+    position: absolute;
+    height: 98.36%;
+    width: 27.94%;
+    top: 1.56%;
+    left: 0%;
+    display: inline-block;
+    cursor: pointer;
+}
+.cortes {
+    position: absolute;
+    height: 98.36%;
+    width: 32.65%;
+    top: 1.56%;
+    left: 18.82%;
+    display: inline-block;
+}
+.horrios {
+    position: absolute;
+    height: 98.36%;
+    width: 37.06%;
+    top: 1.56%;
+    left: 41.46%;
+    display: inline-block;
+}
+.localizao {
+    position: absolute;
+    height: 100%;
+    width: 31.08%;
+    top: 0%;
+    left: 68.91%;
+    display: inline-block;
+}
+.inicio-etc {
+    position: absolute;
+    height: 30.05%;
+    width: 32.92%;
+    top: 35.74%;
+    right: 14.01%;
+    bottom: 34.21%;
+    left: 53.07%;
+    font-family: Inter;
+}
+.logo-hw-icon {
+    position: absolute;
+    height: 100%;
+    width: 5.37%;
+    top: 0%;
+    right: 94.63%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.barra {
+    position: absolute;
+    height: 71.17%;
+    width: 96.17%;
+    top: 14.03%;
+    right: 2.11%;
+    bottom: 14.8%;
+    left: 1.72%;
+}
+.tela-preincipal {
+    position: absolute;
+    height: 13.03%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 86.97%;
+    left: 0%;
+    font-size: 25px;
+    color: #000;
+}
+.group-container {
+    position: absolute;
+    height: 29.18%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 70.82%;
+    left: 0%;
+}
+.linha-child {
+    position: absolute;
+    height: 99.52%;
+    width: 99.59%;
+    top: 0.49%;
+    right: 0.41%;
+    bottom: -0.01%;
+    left: 0%;
+    background-color: rgba(179, 179, 179, 0);
+}
+.linha-item {
+    position: absolute;
+    height: 0.54%;
+    width: 99.99%;
+    top: 0%;
+    right: 0%;
+    bottom: 99.46%;
+    left: 0.01%;
+    background-color: #c29413;
+}
+.linha {
+    position: absolute;
+    height: 89.2%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 10.8%;
+    left: 0%;
+}
+.galeria {
+    position: absolute;
+    height: 9.7%;
+    width: 33.35%;
+    top: 0.25%;
+    left: 40.66%;
+    font-size: 100px;
+    color: #ffd700;
+    display: inline-block;
+    text-shadow: 2px 0 0 #000, 0 2px 0 #000, -2px 0 0 #000, 0 -2px 0 #000;
+}
+.salvador-ba {
+    position: absolute;
+    height: 6.99%;
+    width: 22.46%;
+    top: 15.39%;
+    left: 10.22%;
+    display: inline-block;
+    text-shadow: 2px 0 0 #000, 0 2px 0 #000, -2px 0 0 #000, 0 -2px 0 #000;
+}
+.tatuap-sp {
+    position: absolute;
+    height: 6.99%;
+    width: 18.57%;
+    top: 15.39%;
+    left: 45.12%;
+    display: inline-block;
+    text-shadow: 2px 0 0 #000, 0 2px 0 #000, -2px 0 0 #000, 0 -2px 0 #000;
+}
+.petrpolis-rj {
+    position: absolute;
+    height: 6.99%;
+    width: 19.3%;
+    top: 15.39%;
+    left: 78.42%;
+    display: inline-block;
+    text-shadow: 2px 0 0 #000, 0 2px 0 #000, -2px 0 0 #000, 0 -2px 0 #000;
+}
+.salvador {
+    position: absolute;
+    height: 65.98%;
+    width: 26.97%;
+    top: 25.29%;
+    right: 70.33%;
+    bottom: 8.73%;
+    left: 2.7%;
+    background-color: #d9d9d9;
+}
+.salvador2-icon {
+    position: absolute;
+    height: 34.25%;
+    width: 26.97%;
+    top: 57.02%;
+    right: 70.33%;
+    bottom: 8.73%;
+    left: 2.7%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.tatuap-sp1 {
+    position: absolute;
+    height: 65.98%;
+    width: 26.97%;
+    top: 25.29%;
+    right: 36.31%;
+    bottom: 8.73%;
+    left: 36.72%;
+    background-color: #d9d9d9;
+}
+.tatuape-icon {
+    position: absolute;
+    height: 65.98%;
+    width: 26.97%;
+    top: 25.29%;
+    right: 36.31%;
+    bottom: 8.73%;
+    left: 36.72%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.petrpolis-rj1 {
+    position: absolute;
+    height: 65.98%;
+    width: 26.97%;
+    top: 25.29%;
+    right: 2.28%;
+    bottom: 8.73%;
+    left: 70.75%;
+    background-color: #d9d9d9;
+}
+.petropolis-icon {
+    position: absolute;
+    height: 65.98%;
+    width: 26.97%;
+    top: 25.29%;
+    right: 2.28%;
+    bottom: 8.73%;
+    left: 70.75%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.agende-aqui-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: 2px 4px 2px rgba(0, 0, 0, 0.4);
+    border-radius: 15px;
+    background-color: #e0e0e0;
+}
+.agende-aqui1 {
+    position: absolute;
+    height: 45.77%;
+    width: 114.98%;
+    top: 27.13%;
+    left: 20.62%;
+    display: inline-block;
+}
+.agende-aqui {
+    position: absolute;
+    height: 6.8%;
+    width: 8.3%;
+    top: 93.21%;
+    right: 11.62%;
+    bottom: -0.01%;
+    left: 80.08%;
+    cursor: pointer;
+    font-size: 24px;
+    color: #c29413;
+}
+.agende-aqui2 {
+    position: absolute;
+    height: 6.8%;
+    width: 8.3%;
+    top: 93.21%;
+    right: 45.64%;
+    bottom: -0.01%;
+    left: 46.06%;
+    cursor: pointer;
+    font-size: 24px;
+    color: #c29413;
+}
+.salvador1-icon {
+    position: absolute;
+    height: 32.41%;
+    width: 26.97%;
+    top: 25.29%;
+    right: 70.33%;
+    bottom: 42.3%;
+    left: 2.7%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.group-item {
+    position: absolute;
+    width: 26.97%;
+    top: 57.7%;
+    right: 70.33%;
+    left: 2.7%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 0px;
+    object-fit: contain;
+}
+.agende-aqui4 {
+    position: absolute;
+    height: 6.8%;
+    width: 8.3%;
+    top: 93.21%;
+    right: 79.67%;
+    bottom: -0.01%;
+    left: 12.03%;
+    cursor: pointer;
+    font-size: 24px;
+    color: #c29413;
+}
+.linha-parent {
+    position: absolute;
+    height: 95.42%;
+    width: 100.42%;
+    top: 0%;
+    right: -0.01%;
+    bottom: 4.58%;
+    left: -0.4%;
+}
+.localizao1 {
+    position: absolute;
+    height: 29.18%;
+    width: 100%;
+    top: 58.33%;
+    right: 0%;
+    bottom: 12.49%;
+    left: 0%;
+    background-color: #2c2c2c;
+    overflow: hidden;
+    font-size: 60px;
+    color: #fff;
+}
+.galeria-child {
+    position: absolute;
+    height: 97.4%;
+    width: 100%;
+    top: 0.52%;
+    right: 0%;
+    bottom: 2.08%;
+    left: 0%;
+    background-color: rgba(179, 179, 179, 0);
+}
+.galeria-fotos-child {
+    position: absolute;
+    height: 0.54%;
+    width: 70.71%;
+    top: 100%;
+    right: -70.32%;
+    bottom: -0.54%;
+    left: 99.62%;
+    background-color: #c29413;
+    transform:  rotate(-90deg);
+    transform-origin: 0 0;
+}
+.galeria-fotos-item {
+    position: absolute;
+    height: 0.54%;
+    width: 70.8%;
+    top: 99.87%;
+    right: 29.2%;
+    bottom: -0.4%;
+    left: 0%;
+    background-color: #c29413;
+    transform:  rotate(-90deg);
+    transform-origin: 0 0;
+}
+.icon {
+    position: absolute;
+    height: 43.12%;
+    width: 29.62%;
+    top: 3.26%;
+    right: 66.29%;
+    bottom: 53.62%;
+    left: 4.09%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.icon1 {
+    position: absolute;
+    height: 43.12%;
+    width: 29.62%;
+    top: 3.26%;
+    right: 35.19%;
+    bottom: 53.62%;
+    left: 35.19%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.icon2 {
+    position: absolute;
+    height: 43.12%;
+    width: 29.62%;
+    top: 3.26%;
+    right: 4.09%;
+    bottom: 53.62%;
+    left: 66.29%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.icon3 {
+    position: absolute;
+    height: 43.12%;
+    width: 29.62%;
+    top: 52.63%;
+    right: 66.29%;
+    bottom: 4.25%;
+    left: 4.09%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.icon4 {
+    position: absolute;
+    height: 43.12%;
+    width: 29.62%;
+    top: 52.63%;
+    right: 35.19%;
+    bottom: 4.25%;
+    left: 35.19%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.icon5 {
+    position: absolute;
+    height: 43.12%;
+    width: 29.62%;
+    top: 52.63%;
+    right: 4.09%;
+    bottom: 4.25%;
+    left: 66.29%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.galeria-fotos {
+    position: absolute;
+    height: 99.7%;
+    width: 70.34%;
+    top: 0.3%;
+    right: 14.83%;
+    bottom: 0%;
+    left: 14.83%;
+}
+.galeria-item {
+    position: absolute;
+    height: 0.54%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 99.46%;
+    left: 0%;
+    background-color: #c29413;
+}
+.galeria2 {
+    position: absolute;
+    height: 85.08%;
+    width: 100%;
+    top: 15.03%;
+    right: 0%;
+    bottom: -0.11%;
+    left: 0%;
+}
+.galeria3 {
+    position: absolute;
+    top: 30.49px;
+    left: 600px;
+    display: inline-block;
+    width: 240px;
+    height: 100px;
+    text-shadow: 2px 0 0 #000, 0 2px 0 #000, -2px 0 0 #000, 0 -2px 0 #000;
+}
+.galeria1 {
+    position: absolute;
+    height: 29.18%;
+    width: 100%;
+    top: 29.15%;
+    right: 0%;
+    bottom: 41.67%;
+    left: 0%;
+    background-color: #2c2c2c;
+    overflow: hidden;
+    font-size: 100px;
+}
+.linha-inner {
+    position: absolute;
+    top: 4.43px;
+    left: 0px;
+    background-color: #b3b3b3;
+    width: 2314.6px;
+    height: 914.8px;
+    display: none;
+}
+.linha-child1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #c29413;
+    width: 1490px;
+    height: 5px;
+}
+.linha1 {
+    position: absolute;
+    top: 0.49px;
+    left: 0px;
+    width: 1490px;
+    height: 5px;
+}
+.desenvolvido-por-equipe {
+    position: absolute;
+    height: 3%;
+    width: 7.55%;
+    top: 89.22%;
+    left: 4.06%;
+    text-transform: uppercase;
+    font-weight: 200;
+    display: inline-block;
+}
+.linha-child2 {
+    position: absolute;
+    top: 60.44px;
+    left: 0px;
+    background-color: #b3b3b3;
+    width: 1920px;
+    height: 365.9px;
+    display: none;
+}
+.linha-child3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #c29413;
+}
+.linha2 {
+    position: absolute;
+    top: 271.73px;
+    left: 0px;
+    width: 1490px;
+    height: 1.7px;
+}
+.linkedin-icon {
+    position: absolute;
+    height: 100%;
+    width: 28.5%;
+    top: 0%;
+    right: -0.05%;
+    bottom: 0%;
+    left: 71.54%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.rectangle {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 19.5px;
+    background-color: #fff;
+    border: 1px solid #0a142f;
+    box-sizing: border-box;
+}
+.facebook-icon1 {
+    position: absolute;
+    height: 38.61%;
+    width: 17.82%;
+    top: 30.76%;
+    right: 41.2%;
+    bottom: 30.63%;
+    left: 40.98%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.facebook-icon {
+    position: absolute;
+    height: 100%;
+    width: 28.5%;
+    top: 0%;
+    right: 35.72%;
+    bottom: 0%;
+    left: 35.77%;
+}
+.instagram-icon1 {
+    position: absolute;
+    height: 39.56%;
+    width: 38.28%;
+    top: 29.89%;
+    right: 30.98%;
+    bottom: 30.55%;
+    left: 30.73%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.instagram-icon {
+    position: absolute;
+    height: 100%;
+    width: 28.5%;
+    top: 0%;
+    right: 71.5%;
+    bottom: 0%;
+    left: 0%;
+}
+.social {
+    position: absolute;
+    height: 13.2%;
+    width: 20.34%;
+    top: 86.81%;
+    right: 36.51%;
+    bottom: -0.01%;
+    left: 43.14%;
+}
+.linkedin {
+    position: absolute;
+    height: 11.76%;
+    width: 32.53%;
+    top: 88.25%;
+    left: 0%;
+    text-transform: uppercase;
+    display: inline-block;
+}
+.instagram {
+    position: absolute;
+    height: 11.76%;
+    width: 47.55%;
+    top: 71.58%;
+    left: 0%;
+    text-transform: uppercase;
+    display: inline-block;
+}
+.facebook {
+    position: absolute;
+    height: 11.76%;
+    width: 43.08%;
+    top: 54.91%;
+    left: 0%;
+    text-transform: uppercase;
+    display: inline-block;
+}
+.div {
+    position: absolute;
+    height: 11.76%;
+    width: 60.15%;
+    top: 38.24%;
+    left: 0%;
+    text-transform: uppercase;
+    display: inline-block;
+}
+.hwbarbergmailcom {
+    position: absolute;
+    height: 11.76%;
+    width: 100%;
+    top: 21.57%;
+    left: 0%;
+    text-transform: uppercase;
+    display: inline-block;
+}
+.fale-com-a {
+    position: absolute;
+    height: 11.76%;
+    width: 82.93%;
+    top: 0%;
+    left: 0%;
+    text-transform: uppercase;
+    font-weight: 900;
+    display: inline-block;
+}
+.fale-com-a-gente {
+    position: absolute;
+    height: 71.01%;
+    width: 56.95%;
+    top: 0%;
+    right: -0.01%;
+    bottom: 28.99%;
+    left: 43.06%;
+}
+.horrios1 {
+    position: absolute;
+    height: 14.11%;
+    width: 74.09%;
+    top: 65.87%;
+    left: 0%;
+    text-transform: uppercase;
+    display: inline-block;
+}
+.localizao2 {
+    position: absolute;
+    height: 14.11%;
+    width: 100%;
+    top: 85.87%;
+    left: 0%;
+    text-transform: uppercase;
+    display: inline-block;
+}
+.cortes1 {
+    position: absolute;
+    height: 14.11%;
+    width: 58.26%;
+    top: 45.88%;
+    left: 0%;
+    text-transform: uppercase;
+    display: inline-block;
+}
+.home {
+    position: absolute;
+    height: 14.11%;
+    width: 43.14%;
+    top: 25.88%;
+    left: 0%;
+    text-transform: uppercase;
+    display: inline-block;
+    cursor: pointer;
+}
+.navegao1 {
+    position: absolute;
+    height: 14.11%;
+    width: 95.66%;
+    top: 0%;
+    left: 0%;
+    text-transform: uppercase;
+    font-weight: 900;
+    display: inline-block;
+}
+.navegao {
+    position: absolute;
+    height: 59.19%;
+    width: 32.64%;
+    top: 0%;
+    right: 67.36%;
+    bottom: 40.81%;
+    left: 0%;
+}
+.logo-da-empresa {
+    position: absolute;
+    top: -59.19px;
+    left: 20.73px;
+    text-transform: uppercase;
+    display: none;
+    width: 188px;
+}
+.informaes-do-rodap {
+    position: absolute;
+    height: 71.78%;
+    width: 35.07%;
+    top: 28.2%;
+    right: 62.84%;
+    bottom: 0.01%;
+    left: 2.08%;
+    font-size: 20px;
+    color: #fff;
+}
+.logo-da-hw-barber-1 {
+    position: absolute;
+    top: -6.81px;
+    left: 90px;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    display: none;
+}
+.hwbarber-icon {
+    position: absolute;
+    height: 21.29%;
+    width: 4.58%;
+    top: 0%;
+    right: 93.33%;
+    bottom: 78.71%;
+    left: 2.08%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.desenvolvido-por-equipe-2-parent {
+    position: absolute;
+    height: 88.93%;
+    width: 100%;
+    top: 5.55%;
+    right: 0%;
+    bottom: 5.52%;
+    left: 0%;
+}
+.rodap {
+    position: absolute;
+    height: 12.49%;
+    width: 100%;
+    top: 87.51%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #171717;
+    overflow: hidden;
+    font-size: 10px;
+    color: #efb003;
+    font-family: Inter;
+}
+.group-parent {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    overflow: hidden;
+}
+.tela-principal {
+    width: 100%;
+    position: relative;
+    background-color: #292929;
+    height: 3002px;
+    overflow-y: auto;
+    text-align: left;
+    font-size: 80px;
+    color: #ffd700;
+    font-family: 'League Gothic';
+}
+
